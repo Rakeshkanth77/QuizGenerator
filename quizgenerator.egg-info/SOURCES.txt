@@ -1,0 +1,9 @@
+README.md
+setup.py
+quizgenerator.egg-info/PKG-INFO
+quizgenerator.egg-info/SOURCES.txt
+quizgenerator.egg-info/dependency_links.txt
+quizgenerator.egg-info/requires.txt
+quizgenerator.egg-info/top_level.txt
+src/__init__.py
+src/quizgenerator/__init__.py
